@@ -1,5 +1,5 @@
 <h1 align="left">Hola! This is Ananya.</h1>
-<h3 align="left">An engineering student at Government Engineering College, Thrissur.</h3>
+<h3 align="left">An Electronics and Communication Engineering student at Government Engineering College, Thrissur.</h3>
 
 - I’m currently learning **Data Analysis.**
 
