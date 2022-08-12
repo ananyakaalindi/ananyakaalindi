@@ -5,7 +5,7 @@
 
 - I'm also into **UI Designing.**
 
-- **You can read my articles on [https://kaalindiananya.wordpress.com/](https://kaalindiananya.wordpress.com/)**
+- **You can read my blogs on [https://kaalindiananya.wordpress.com/](https://kaalindiananya.wordpress.com/)**
 
 - Reach me at **ananyakaalindi@gmail.com**
 
